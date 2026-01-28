@@ -1,4 +1,4 @@
-# Hi there | Olá, sou a @emevonlou
+# Hi there | Olá
 
 SOC Analyst | Blue Team | Linux Security
 

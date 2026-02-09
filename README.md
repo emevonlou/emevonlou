@@ -30,15 +30,23 @@ Security, to me, is not paranoia. It is clarity and method.
 
 ## Technical Stack
 
-- HTML, CSS, JavaScript  
-- Backend fundamentals and system logic  
-- Git and GitHub for versioning and traceability  
-- Ongoing focus on:
-  - Application security fundamentals  
-  - Trust boundaries and failure modes  
-  - Defensive thinking in system design  
+HTML, CSS, JavaScript
 
-I prioritize solid fundamentals over premature abstraction.  
+Python, with emphasis on scripting, automation, and system-oriented tooling
+
+Backend fundamentals and system logic
+
+Git and GitHub for versioning and traceability
+
+Ongoing focus on:
+
+Application security fundamentals
+
+Trust boundaries and failure modes
+
+Defensive thinking in system design
+
+I prioritize solid fundamentals over premature abstraction.
 Tools evolve. Mental models persist.
 
 ---

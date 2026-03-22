@@ -5,9 +5,9 @@
 
 ## About Me
 
-I approach technology as systems, not tools. Focused on backend fundamentals, security-aware design, and understanding how things fail outside the happy path.
-Code should be predictable under pressure, defend its assumptions, and justify its complexity. Security isn’t paranoia,it’s method.
-Blue team mindset.
+Backend, systems, and open source.
+Interested in how things break, not just how they work.
+I like predictable software...production isn’t the place for surprises.
 
 <!-- subtle animated signature -->
 <p align="center">

@@ -6,13 +6,13 @@
 ## Hey
 
 Ended up here from studying, testing things  
-and not being able to ignore how far this could go
-overlays, input, parsing  
-event hooks, buffers, streams  
-systems on top of systems
-sometimes it just… works
-sometimes it turns into something beautiful  
-sometimes it helps someone along the way  
+and not being able to ignore how far this could go.
+Overlays, input, parsing,  
+event hooks, buffers, streams,  
+systems on top of systems...
+sometimes it just… works,
+sometimes it turns into something beautiful,  
+sometimes it helps someone along the way,  
 and that’s already more than enough :]
 
 <!-- subtle animated signature -->

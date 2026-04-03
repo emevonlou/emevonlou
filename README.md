@@ -3,11 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:3a0ca3&height=3&section=header" />
 </p>
 
-## About Me
+## Hey
 
-Backend, systems, and open source.
-Interested in how things break, not just how they work.
-I like predictable software...production isn’t the place for surprises.
+Ended up here from studying, testing things  
+and not being able to ignore how far this could go
+overlays, input, parsing  
+event hooks, buffers, streams  
+systems on top of systems
+sometimes it just… works
+sometimes it turns into something beautiful  
+sometimes it helps someone along the way  
+and that’s already more than enough :]
 
 <!-- subtle animated signature -->
 <p align="center">

@@ -32,5 +32,5 @@ and that’s already more than enough :]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emevonlou&layout=compact&hide_border=true&bg_color=00000000&title_color=6F6AF8&text_color=a9b1d6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emevonlou&layout=compact&theme=transparent&hide_border=true&title_color=6F6AF8&text_color=a9b1d6" />
 </p>

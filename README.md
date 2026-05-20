@@ -26,11 +26,8 @@ and that’s already more than enough :]
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=6F6AF8" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=6F6AF8" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=6F6AF8" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6F6AF8" />
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=6F6AF8" />
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=6F6AF8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emevonlou&layout=compact&theme=transparent&hide_border=true&title_color=6F6AF8&text_color=a9b1d6" />
 </p>
